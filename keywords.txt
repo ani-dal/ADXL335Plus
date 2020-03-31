@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map for ADXL335Plus
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ADXL335Plus	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+rd	KEYWORD2
+acceleration	KEYWORD2
+Ax	KEYWORD2
+Ay	KEYWORD2
+Az	KEYWORD2	
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+ADC_AMPLITUDE	LITERAL1
+ADC_REF	LITERAL1
+ZERO_X	LITERAL1
+ZERO_Y	LITERAL1
+ZERO_Z	LITERAL1
+SENSITIVITY	LITERAL1
